@@ -1,0 +1,31 @@
+# === Mac Operating System Junk ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+
+# === Machine Learning Datasets (Crucial for M5 Mac) ===
+# This blocks heavy files that will crash your GitHub uploads
+data/
+datasets/
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.json
+
+# === Python & Environment Files ===
+# Keeps your local installations out of the cloud
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+env/
+ml_env/
+
+# === VS Code Configuration ===
+.vscode/
