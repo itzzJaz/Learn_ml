@@ -29,3 +29,4 @@ ml_env/
 
 # === VS Code Configuration ===
 .vscode/
+.idea/
